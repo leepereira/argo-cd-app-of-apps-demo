@@ -17,7 +17,7 @@ spec:
           value: 'true'
   destination:
     namespace: cert-manager
-    name: kind
+    name: leonsaks101-admin
   syncPolicy:
     automated: {}
     syncOptions:
